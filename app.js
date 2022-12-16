@@ -20,7 +20,7 @@ document.getElementById("formulario").addEventListener("submit", function (e) {
         Swal.fire({
           position: "top-center",
           icon: "success",
-          title: "Los datos se han guardado exitosamente.",
+          title: "Les dades s'han desat amb èxit.",
           showConfirmButton: false,
           timer: 5000,
         });
