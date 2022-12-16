@@ -15,7 +15,6 @@ document.getElementById("formulario").addEventListener("submit", function (e) {
         document.getElementById("txt_dni").value = "";
         document.getElementById("txt_autoritzo").value = "";
         document.getElementById("txt_noAutoritzo").value = "";
-        // alert("El usuario se insertó correctamente.");
 
         Swal.fire({
           position: "top-center",
